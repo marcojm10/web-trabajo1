@@ -31,6 +31,9 @@ button{
   box-shadow: 0 0 2px 1px blue;
   transform: scale(1.5);
 }
-button:hover{
- backgroung-color:blue;
+#Tilin:hover {
+    backgroung-color:red;
+}
+#tabla1 tr:hover {
+    background-color: green;
 }
