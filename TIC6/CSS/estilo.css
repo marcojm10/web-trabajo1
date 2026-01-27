@@ -37,3 +37,16 @@ button{
 #tabla1 tr:hover {
     background-color: green;
 }
+.noticias {
+  border: 5px ridge #550600;
+  background-color: #FFB0AA;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+}
+.noticias p {
+  font-family: Fantasy;
+  text-align: center;
+}
+
+}
